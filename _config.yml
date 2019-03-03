@@ -2,8 +2,9 @@ title: Sing Min Hong # your name (or website title) here
 logo: "/images/IMG-20171224-WA0078_mh1515214385758.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Life-long Learner.
-  Tech Enthusiast.
   <br>
+  Tech Enthusiast.
+  <br><br>
   <a href="https://www.linkedin.com/in/singminhong/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
