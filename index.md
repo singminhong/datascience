@@ -2,17 +2,41 @@
 
 ---
 
-### Category Name 1 
+### Data Science - Predictive Analytics for Business (formerly known as Business Analyst)
 
-[Project 1 Title](/sample_page)
+[Predicting Diamond Prices](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/1_Problem-Solving-with-Analytics/1.1_Predicting-Diamond-Prices.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Predicting Catalog Demand](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/1_Problem-Solving-with-Analytics/1.2_Predicting-Catalog-Demand.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Create an Analytical Dataset](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/2_Data-Wrangling/2.1_Create-an-Analytical-Dataset.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Create Reports from a Database](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/2_Data-Wrangling/2.2_Create-Reports-from-a-Database.zip)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Visualize Movie Data](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/3_Data-Visualization/3.1_Visualize-Movie-Data.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Predicting Default Risk](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/4_Classification-Models/4.1_Predicting-Default-Risk.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[A/B Test a New Menu Launch](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/5_AB-Testing/5.1_AB-Test-a-New-Menu-Launch.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Forecast Video Game Demand](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/6_Time-Series-Forecasting/6.1_Forecast-Video-Game-Demand.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Combining Predictive Techniques](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/7_Segmentation-and-Clustering/7.1_Combining-Predictive-Techniques.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
