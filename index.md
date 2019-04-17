@@ -2,6 +2,7 @@
 ---
 
 ### [Predictive Analytics for Business (formerly known as Business Analyst) Nanodegree](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree)
+### May 2018 - April 2019
 
 - [Predicting Diamond Prices](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/1_Problem-Solving-with-Analytics/1.1_Predicting-Diamond-Prices.pdf)
 - [Predicting Catalog Demand](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/1_Problem-Solving-with-Analytics/1.2_Predicting-Catalog-Demand.pdf)
