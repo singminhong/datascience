@@ -7,11 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Data Science Profile.
   <br><br>
-  Skills: Python, SQL, PostgresSQL, MySQL, Algebra, Statistics, Probability
+  Skills: <br> Python, SQL, PostgresSQL, MySQL, Algebra, Statistics, Probability
   <br>
-  Tools: Alteryx, Tableau, DB Browser (SQLite)
+  Tools: <br> Alteryx, Tableau, DB Browser (SQLite)
   <br>
-  Award: Bertelsmann Data Science Scholarship 2018-2019
+  Award: <br> Bertelsmann Data Science Scholarship 2018-2019
   <br><br>
   <a href="https://www.linkedin.com/in/singminhong/">View My LinkedIn Profile</a> 
   
