@@ -12,6 +12,7 @@
 - [A/B Test a New Menu Launch](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/5_AB-Testing/5.1_AB-Test-a-New-Menu-Launch.pdf)
 - [Forecast Video Game Demand](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/6_Time-Series-Forecasting/6.1_Forecast-Video-Game-Demand.pdf)
 - [Combining Predictive Techniques](https://github.com/singminhong/Predictive-Analytics-for-Business-Nanodegree/tree/master/7_Segmentation-and-Clustering/7.1_Combining-Predictive-Techniques.pdf)
+
 <img src="images/Summary.jpg?raw=true"/>
 
 <!--
